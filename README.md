@@ -1,6 +1,5 @@
-# {{ project_name|title }}
+# Anchor Point – Production Ready Django Project Template
 
-Anchor Point – Production Ready Django Project Template
 ![Anchor](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cFJV0wCKs9J7jHDteI5YIA4kdVPfQspJtA&s)
 
 ## Table of Contents
